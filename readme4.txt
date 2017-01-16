@@ -1,4 +1,6 @@
-Izvröena je migracija pristupa podacima sa xml na bazu.
+http://wtspiralaphp-wt-spirala2.44fs.preview.openshiftapps.com/
+
+Izvr≈°ena je migracija pristupa podacima sa xml na bazu.
 Jedino sam ostavio da se prilikom log-ina ukoliko baza ne postoji provjere log in podaci iz xml fajla.
 Razlog jeste da, za slucaj da asistent ili profesorica iz nekog razloga ne mogu pokrenuti moju bazu na racunaru,
 ipak budu u mogucnosti pristupiti admin panelu i koristiti stranicu. Takodjer sam iz istog razloga ostavio u admin panelu
